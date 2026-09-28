@@ -6,8 +6,9 @@ Este repositório contém meus scripts de treinamento e instruções personaliza
 
 | Função da IA | Descrição | Link do Script |
 | :--- | :--- | :--- |
-| **Copywriter AIDA** | Cria textos focados em conversão e vendas. | [Ver Script](./assistentes-de-negocios/copwriter-especialista.md) |
-| **Gerador de Resumos** | Transforma textos longos em tópicos direto ao ponto. | [Ver Script](./utilitarios-e-produtividade/gerador-de-resumos.txt) |
+| **Copilot** | Como você pode usar diferentes tipos do copilotos para seus projetos ou estudos. | [Ver Script](./Copilot) |
+| **Engenharia de Prompts** | Existe diferentes metodos para utilizar 100% da capacidade da IA, e aqui vemos isso!. | [Ver Script](./Engenharia-de-Prompts) |
+| **Personalização de Agentes de IA** | Com os avanços da IA, você pode utilizar agentes personalizados para ajudar em diversas áreas! | [Ver Script](./Personalização-de-Agentes-IA) |
 
 ## 🚀 Como Usar
 1. Escolha um script na tabela acima e clique no link.
